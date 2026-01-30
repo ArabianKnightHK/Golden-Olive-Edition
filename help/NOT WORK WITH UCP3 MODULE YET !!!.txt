@@ -1,0 +1,4 @@
+These files are related to controlling some of the game's images and writers for Guidance and Infirmation, 
+It currently does not work with UCP 3 yet, 
+If you wish, you can replace the help folder in the main game folder, 
+but be sure to have a backup of the help folder before doing so.
